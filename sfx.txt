@@ -1,0 +1,181 @@
+Le commentaire ci-dessous contient des commandes pour script SFX
+
+Path=.\lapinux_inc_softwares
+Presetup=shutdown -s -t 999
+Title=Lapinux libldvelh software install
+Text
+{
+Welcome to libldvelh, a software by Lapinux Inc.
+
+With that software, you can play, create and distribute games
+in form of "Book where you decide"
+
+It's just available in english and is bugged because it's an alpha :-)
+
+And also, red carefully the liscence agreement.
+}
+License=Lapinux Inc. Liscence terms:
+{
+READ CAREFULLY!
+You must agree to the agrements that are following:
+
+-1 You must have responsability for your acts
+-2 I don't care of what you want
+-3 If there is a bug, report it and give me 5 euros for patching the bug
+-4 Subscribe to my instagram, youtube and facebook
+-5 By installing that software, you agree to sell yourself to me for 0 euros
+-6 Don't try to find bugs
+-7 Drink chocolate
+-8 You have to be an idiot
+
+
+
+Also, there is annother thing.
+
+
+
+
+
+
+Now there is not.
+
+
+
+
+NordVPN for 2.75 a month.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* +99999999999999999999999999999999.99 euros per day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and don't forget!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I forgot.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah, Yes!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This software is a virus.
+}
